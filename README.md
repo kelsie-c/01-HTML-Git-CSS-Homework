@@ -3,6 +3,8 @@ Week 1 Homework for OSU Coding Bootcamp
 
 This homework assignment involves accessibility and refactoring code. In this homework, a marketing agency has hired me to refactor an existing site to make it more accessible.
 
+To see each commit, please view the 01-HTML-Git-CSS-02 foler in [my homework repo](https://github.com/kelsie-c/homework) 
+
 ## User Story
 
 ```
